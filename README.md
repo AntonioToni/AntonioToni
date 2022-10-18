@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Student at University Department of Professional Studies.  
-Studying Computer Science.
+I'm a student studying Computer Science from Croatia.
 
 <hr>
 
