@@ -16,6 +16,7 @@ Languages I have worked with: <br><br>
 <img width=5% src="https://vectorwiki.com/images/G9sE3__javascript.svg">
 <img width=5% src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img width=5% src="https://vectorwiki.com/images/2Lqpe__c.svg">
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioToni&layout=compact&theme=dark"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioToni&show_icons=true&theme=dark"/>
