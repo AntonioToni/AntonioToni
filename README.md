@@ -25,6 +25,6 @@ Languages I have worked with: <br>
 <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioToni&layout=compact&theme=dark"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioToni&layout=compact&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioToni&show_icons=true&theme=dark"/>
 </p>
