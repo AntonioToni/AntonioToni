@@ -4,7 +4,7 @@ I'm a student studying Computer Science from Croatia.
 
 <hr>
 
-🏫 `2016 - 2022` Finished a 4 year programme at the School of Electrical Engineering -> Electronics technician <br>
+🏫 `2016 - 2020` Finished a 4 year programme at the School of Electrical Engineering -> Electronics technician <br>
 🏫 `2020 - now` Studying computer science at University Department of Professional Studies <br>
 
 I have worked with:
