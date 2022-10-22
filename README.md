@@ -15,7 +15,7 @@ Languages I have worked with: <br>
 <br><br>Frameworks:<br>
 <img width=4% src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width=4% src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-<br><br>Markdown:<br>
+<br><br>Markup:<br>
 <img width=4% src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width=4% src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 <img width=4% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
