@@ -1,6 +1,47 @@
-## Welcome
+```ts
+/**
+ * Hi there! 👋
+ * 
+ * My name is Antonio, a passionate Computer Science student from Croatia.
+ * Here's a glimpse of what I bring to the table:
+ */
 
-Welcome to my dump of pet projects & college assignments.
+import { Skills, Frameworks, Tools } from './types';
 
+const aboutMe: string = `
+I'm currently diving deep into the world of software development, exploring various technologies
+and honing my skills to become a proficient developer.
+`;
 
-[![wakatime](https://wakatime.com/badge/user/f9669fed-84cd-4db7-af40-a790293d82c4.svg)](https://wakatime.com/@f9669fed-84cd-4db7-af40-a790293d82c4)
+const mySkills: Skills[] = [
+  'TypeScript',
+  'JavaScript',
+  'HTML',
+  'CSS',
+  'Markdown'
+];
+
+const frameworks: Frameworks[] = [
+  'ReactJS',
+  'Express'
+];
+
+const stylingLibraries: Frameworks[] = [
+  'MaterialUI'
+];
+
+const tools: Tools[] = [
+  'Visual Studio Code'
+];
+
+console.log('Thanks for stopping by! Feel free to reach out for collaboration or just to say hello.');
+
+export {
+  aboutMe,
+  mySkills,
+  frameworks,
+  stylingLibraries,
+  tools
+};
+
+```
