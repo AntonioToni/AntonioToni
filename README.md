@@ -1,11 +1,4 @@
 ```ts
-/**
- * Hi there! 👋
- * 
- * My name is Antonio, a passionate Computer Science student from Croatia.
- * Here's a glimpse of what I bring to the table:
- */
-
 import { Skills, Frameworks, Tools } from './types';
 
 const aboutMe: string = `
